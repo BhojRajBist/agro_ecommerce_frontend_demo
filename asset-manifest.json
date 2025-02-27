@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/agro_ecommerce_frontend_demo/static/css/main.0cc021a3.css",
+    "main.js": "/agro_ecommerce_frontend_demo/static/js/main.dc4b6270.js",
+    "static/media/rice.jpeg": "/agro_ecommerce_frontend_demo/static/media/rice.1e22664afc2e06543e1c.jpeg",
+    "index.html": "/agro_ecommerce_frontend_demo/index.html",
+    "main.0cc021a3.css.map": "/agro_ecommerce_frontend_demo/static/css/main.0cc021a3.css.map",
+    "main.dc4b6270.js.map": "/agro_ecommerce_frontend_demo/static/js/main.dc4b6270.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0cc021a3.css",
+    "static/js/main.dc4b6270.js"
+  ]
+}
